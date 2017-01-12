@@ -1,0 +1,7 @@
+database : mysql
+server host : 10.96.60.148
+port : 3306
+username : seshu
+password : opentext
+default schema : contracts_database
+database name : contracts_database
